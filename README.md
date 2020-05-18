@@ -8,22 +8,22 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Business Understanding
 
-- [x] Clearly explains the real-world problem your project attempts to solve in...
+- [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
   - [ ] Notebook
   - [ ] Slides
 
 ## Data Understanding
 
-- [x] Describes the data source in...
+- [ ] Describes the data source in...
   - [ ] Readme
-  - [ ] Notebook
+  - [x] Notebook
   - [ ] Slides
-- [ ] Notebook describes properties of all variables used in project
+- [x] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [x] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
 
@@ -53,8 +53,8 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Notebook Content
 
 - [ ] Notebook includes...
-  - [ ] Data understanding
-  - [ ] Data preparation
+  - [x] Data understanding
+  - [x] Data preparation
   - [ ] Modeling
   - [ ] Evaluation
 
