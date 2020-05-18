@@ -27,7 +27,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Modeling
 
-- [ ] Notebook includes a baseline model
+- [x] Notebook includes a baseline model
 - [ ] Notebook includes additional models built iteratively from the baseline model
 - [ ] Preferred model is described in...
   - [ ] Readme
@@ -55,7 +55,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [ ] Notebook includes...
   - [x] Data understanding
   - [x] Data preparation
-  - [ ] Modeling
+  - [x] Modeling
   - [ ] Evaluation
 
 ## Presentation Content
