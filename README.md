@@ -8,14 +8,14 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Business Understanding
 
-- [ ] Clearly explains the real-world problem your project attempts to solve in...
+- [x] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
   - [ ] Notebook
   - [ ] Slides
 
 ## Data Understanding
 
-- [ ] Describes the data source in...
+- [x] Describes the data source in...
   - [ ] Readme
   - [ ] Notebook
   - [ ] Slides
